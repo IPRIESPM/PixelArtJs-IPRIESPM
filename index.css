@@ -1,0 +1,37 @@
+header{
+    margin-bottom: 15px;
+}
+
+main{
+    display: flex;
+}
+
+main > * {
+    margin: 8px;
+}
+.table{
+    display: table;
+}
+
+.row{
+    display: table-row;
+}
+
+.cell{
+    display: table-cell;
+    border: 1px solid silver;
+    padding: 4px;
+}
+.cColor {
+    height: 1.3em;
+    width: 3em;
+    border: 1px solid seashell;
+}
+
+#rContainer{
+    display: flex;
+}
+
+.cursor{
+    cursor: pointer;
+}

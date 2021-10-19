@@ -1,2 +1,2 @@
 # PixelArtJs-IPRIESPM
-a piex art exercice
+a piex art exercise
